@@ -1,7 +1,7 @@
-C:\JixGe\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\bin\Debug\ConvertDirectoryTreeToJSON.exe.config
-C:\JixGe\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\bin\Debug\ConvertDirectoryTreeToJSON.exe
-C:\JixGe\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\bin\Debug\ConvertDirectoryTreeToJSON.pdb
-C:\JixGe\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\obj\Debug\ConvertDirectoryTreeToJSON.csprojResolveAssemblyReference.cache
-C:\JixGe\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\obj\Debug\ConvertDirectoryTreeToJSON.exe
-C:\JixGe\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\obj\Debug\ConvertDirectoryTreeToJSON.pdb
-C:\JixGe\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\bin\Debug\Newtonsoft.Json.dll
+C:\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\bin\Debug\ConvertDirectoryTreeToJSON.exe.config
+C:\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\bin\Debug\ConvertDirectoryTreeToJSON.exe
+C:\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\bin\Debug\ConvertDirectoryTreeToJSON.pdb
+C:\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\obj\Debug\ConvertDirectoryTreeToJSON.csprojResolveAssemblyReference.cache
+C:\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\obj\Debug\ConvertDirectoryTreeToJSON.exe
+C:\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\obj\Debug\ConvertDirectoryTreeToJSON.pdb
+C:\E\C#\ConvertDirectoryTreeToJSON\ConvertDirectoryTreeToJSON\bin\Debug\Newtonsoft.Json.dll
