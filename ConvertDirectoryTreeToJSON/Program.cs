@@ -44,7 +44,7 @@ namespace ConvertDirectoryTreeToJSON
     {
         static void Main(string[] args)
         {
-            DynatreeItem di = new DynatreeItem(new DirectoryInfo(@"C:\JixGe\soft"));
+            DynatreeItem di = new DynatreeItem(new DirectoryInfo(@"C:\soft"));
             //string result = "[" + di.JsonToDynatree() + "]";
             string result = "[" + JsonConvert.SerializeObject(di, Formatting.Indented) + "]";
             
@@ -116,7 +116,7 @@ namespace ConvertDirectoryTreeToJSON
 
     //    static void Main(string[] args)
     //    {
-    //        Node root = new Node(@"C:\JixGe\soft");
+    //        Node root = new Node(@"C:\soft");
     //        AddNode("New Text Document.txt", root);
     //        AddNode(@"New folder\", root);
     //        AddNode(@"New folder\README.txt", root);
